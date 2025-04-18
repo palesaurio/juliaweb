@@ -79,7 +79,7 @@ export default function Home() {
                       <ul className="space-y-2 text-gray-700">
                         
     <li>• LICENCIATURA EN DERECHO</li>
-    <li>• UNIVERSIDAD VERACRUZANA(UV XALAPA)</li>
+    <li>• UNIVERSIDAD VERACRUZANA (UV XALAPA)</li>                   
     <li>• MAESTRÍA EN JUICIOS ORALES EN MATERIA PENAL</li>
     <li>• UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ (UPAV)</li>                   
     <li>• DIPLOMADO EN MEDIADOR-CONCILIADOR-FACILITADOR</li>
