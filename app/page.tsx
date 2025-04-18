@@ -77,16 +77,19 @@ export default function Home() {
                     <div>
                       <h3 className="text-xl font-bold text-[#ec407a] mb-2">Formación Académica</h3>
                       <ul className="space-y-2 text-gray-700">
-                        <li>• UNIVERSIDAD VERACRUZANA</li>
-    <li>• LICENCIADA EN DERECHO</li>
+                        
+    <li>• LICENCIATURA EN DERECHO</li>
+    <li>• UNIVERSIDAD VERACRUZANA(UV XALAPA)</li>
+    <li>• DIPLOMADO EN MEDIADOR-CONCILIADOR-FACILITADOR</li>
+    <li>• UNIVERSIDAD VERACRUZANA(UV XALAPA)</li>
     <li>• CERTIFICACIÓN DEL CEJAV (CEJAV/30-MCE 209/2022)</li>
-    <li>• UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ (UPAV)</li>
     <li>• MAESTRÍA EN JUICIOS ORALES EN MATERIA PENAL</li>
+    <li>• UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ (UPAV)</li>
     <li>• MAESTRÍA EN MATERIA PENAL</li>
     <li>• DOCTORADO EN NEUROCIENCIAS ESTRUCTURALES</li>
     <li>• NEUROCIENCIAS FORENSES</li>
     <li>• UNIVERSIDAD VERACRUZANA</li>
-    <li>• DIPLOMADO EN MEDIACIÓN, CONCILIACIÓN Y FACILITACIÓN</li>
+   
     <li>• DIPLOMADO EN JUICIOS ORALES DEL NUEVO SISTEMA DE JUSTICIA PENAL EN MÉXICO</li>
     <li>• ESCUELA JUDICIAL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO</li>
     <li>• DIPLOMADO EN MEDIOS ALTERNOS DE RESOLUCIÓN DE CONFLICTOS</li>
