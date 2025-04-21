@@ -140,20 +140,19 @@ export default function Home() {
                           15--05-00)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE JALACINGO, VER:</span> JUEZ (29-08-98 a
-                          28-08-98)
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE JALACINGO, VER:</span> JUEZ (16-05-00 a
+                          30-06-08)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE RAFAEL LUCIO, VER:</span> JUEZ (01-02-09
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE RAFAEL LUCIO, VER:</span> JUEZ (03-07-08
                           a 18-07-98)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE TLAPACOYAN, VER:</span> JUEZ (19-03-2015
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE TLAPACOYAN, VER:</span> JUEZ (01-02-09
                           a 18-03-15)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE VEGA DE ALATORRE, VER:</span> JUEZ
-                          (ACTUALMENTE)
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE VEGA DE ALATORRE, VER:</span> JUEZ ( 19-03-2015 a AL DIA DE HOY)
                         </p>
                       </div>
                     </div>
