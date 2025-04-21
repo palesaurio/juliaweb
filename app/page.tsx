@@ -113,31 +113,31 @@ export default function Home() {
                       <div className="space-y-2 text-gray-700">
                         <p>
                           <span className="font-semibold">PRIMERA SALA:</span> OFICIAL ADMINISTRATIVO POR CONTRATO
-                          (30-07-96 a 03-11-96)
+                          (15-05-91 a 30-07-96)
                         </p>
                         <p>
-                          <span className="font-semibold">TERCERA SALA:</span> OFICIAL ADMINISTRATIVO INTERINO (17-12-96
-                          a 06-01-97)
+                          <span className="font-semibold">TERCERA SALA:</span> OFICIAL ADMINISTRATIVO INTERINO (23-09-96 a 03-11-96)
                         </p>
                         <p>
-                          <span className="font-semibold">TERCERA SALA:</span> OFICIAL ADMINISTRATIVO INTERINO (29-01-98
-                          a 30-01-98)
+                          <span className="font-semibold">TERCERA SALA:</span> OFICIAL ADMINISTRATIVO INTERINO ( 04-11-96 a 17-12-96)
+                        </p>
+
+                        <p>
+                          <span className="font-semibold">TERCERA SALA:</span> OFICIAL ADMINISTRATIVO CONTRATO ( 06-01-97 a 30-01-98)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE ACATLAN, VER:</span> JUEZ (20-04-98 a
-                          19-04-98)
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE ACATLAN, VER:</span> JUEZ (29-01-98 a 19-04-98)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE CATEMACO, VER:</span> JUEZ (16-05-00 a
-                          15-05-00)
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE CATEMACO, VER:</span> JUEZ (20-04-98 a 18-07-98)
                         </p>
                         <p>
                           <span className="font-semibold">JUZGADO MUNICIPAL DE JILOTEPEC, VER:</span> JUEZ (03-08-98 a
-                          18-07-98)
+                          28-08-98)
                         </p>
                         <p>
-                          <span className="font-semibold">JUZGADO MUNICIPAL DE BANDERILLA, VER:</span> JUEZ (03-07-08 a
-                          30-06-08)
+                          <span className="font-semibold">JUZGADO MUNICIPAL DE BANDERILLA, VER:</span> JUEZ (29-08-98 a
+                          15--05-00)
                         </p>
                         <p>
                           <span className="font-semibold">JUZGADO MUNICIPAL DE JALACINGO, VER:</span> JUEZ (29-08-98 a
